@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    130272,       2854]
-NotebookOptionsPosition[    125737,       2765]
-NotebookOutlinePosition[    126208,       2784]
-CellTagsIndexPosition[    126165,       2781]
+NotebookDataLength[    130002,       2848]
+NotebookOptionsPosition[    125568,       2760]
+NotebookOutlinePosition[    126039,       2779]
+CellTagsIndexPosition[    125996,       2776]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2754,12 +2754,7 @@ Cell[BoxData["2.6282964970084802`*^26"], "Output",
  CellLabel->
   "Out[322]=",ExpressionUUID->"7bbf3c3c-026c-4d3d-8c8e-ccb9494caeba"]
 }, Open  ]]
-}, Open  ]],
-
-Cell["Particle Horizon", "Subsection",
- CellChangeTimes->{{3.9062969909572363`*^9, 
-  3.906296999162427*^9}},ExpressionUUID->"9284607a-2b89-4ac0-9669-\
-07ba003741c0"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
@@ -2852,8 +2847,7 @@ Cell[CellGroupData[{
 Cell[121605, 2694, 1245, 21, 36, "Input",ExpressionUUID->"36d69bd0-1be8-4d69-9d8e-f376d9aa26fa"],
 Cell[122853, 2717, 2663, 37, 40, "Output",ExpressionUUID->"7bbf3c3c-026c-4d3d-8c8e-ccb9494caeba"]
 }, Open  ]]
-}, Open  ]],
-Cell[125543, 2758, 166, 3, 67, "Subsection",ExpressionUUID->"9284607a-2b89-4ac0-9669-07ba003741c0"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
